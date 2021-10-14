@@ -1,0 +1,14 @@
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.1\JeuDeMath.exe
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.1\JeuDeMath.deps.json
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.1\JeuDeMath.runtimeconfig.json
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.1\JeuDeMath.runtimeconfig.dev.json
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.1\JeuDeMath.dll
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.1\JeuDeMath.pdb
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.AssemblyInfoInputs.cache
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.AssemblyInfo.cs
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.csproj.CoreCompileInputs.cache
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.dll
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.pdb
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.genruntimeconfig.cache
+C:\Users\MOU\source\repos\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.1\JeuDeMath.csproj.AssemblyReference.cache
